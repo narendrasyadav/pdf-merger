@@ -1,4 +1,4 @@
-# 📚 Premium PDF Merger
+# 📚  PDF Merger
 
 A visually modern and user-friendly desktop application built in **Python + PyQt5** that allows users to easily merge multiple PDF files with thumbnail previews. Designed for simplicity, speed, and a professional UI experience.
 
