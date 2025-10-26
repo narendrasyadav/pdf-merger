@@ -31,7 +31,7 @@ A visually modern and user-friendly desktop application built in **Python + PyQt
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/premium-pdf-merger.git
+git clone https://github.com/narendrasyadav/pdf-merger.git
 cd premium-pdf-merger
 ```
 
@@ -60,18 +60,18 @@ python main.py
 
 | Preview |
 |--------|
-| *(Add app screenshot here)* |
+<img width="598" height="490" alt="image" src="https://github.com/user-attachments/assets/1606d9fd-a1fb-4ec1-b7f5-426c065e944d" />
+ 
 
 ---
 
 ## 🧩 Code Structure
 
 ```
-📁 premium-pdf-merger
+📁 pdf-merger
 │
-├── main.py              # Application entry point
+├── merger.py              # Application entry point
 ├── README.md            # Project documentation
-└── assets/              # (Optional) App icons, logos
 ```
 
 ---
